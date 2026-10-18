@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+scipy
+statsmodels
+prophet
+torch
+shap
+reportlab
+openpyxl

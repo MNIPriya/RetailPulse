@@ -1,0 +1,14 @@
+File,Exists,Size_KB
+day2_cleaned_transactions.csv,True,50738.16
+day2_sales_data.csv,True,49671.62
+day2_rfm_features.csv,True,96.77
+day3_customer_segments.csv,True,110.35
+day4_daily_time_series.csv,True,26.42
+day5_prophet_metrics.csv,True,0.1
+day6_model_comparison.csv,True,0.16
+day8_ensemble_forecast.csv,True,4.96
+day9_churn_predictions.csv,True,42.62
+day10_inventory_recommendations.csv,True,422.07
+day12_drift_report.csv,True,0.85
+day13_daily_sales_summary.csv,True,8.73
+day14_validation_report.csv,True,1.37
